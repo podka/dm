@@ -1,7 +1,6 @@
-token=NTg3MDIyNzAwNzk5NzIxNTI2.XQXFQg.mJdDXMek7fo2pNa4s1XnWvsUPeo
+token=NTg3MDIyNzAwNzk5NzIxNTI2.XQZj3Q.tIh3vEOEcJevBhAsPM2aFRTMhyU
 owner=393069322966138881
-
- prefix = d
+prefix= d
 game= dhelp
 stayinchannel=true
 songinstatus=true 
