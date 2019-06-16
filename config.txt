@@ -1,0 +1,7 @@
+token=NTg3MDIyNzAwNzk5NzIxNTI2.XQXFQg.mJdDXMek7fo2pNa4s1XnWvsUPeo
+owner=393069322966138881
+
+ prefix = d
+game= dhelp
+stayinchannel=true
+songinstatus=true 
